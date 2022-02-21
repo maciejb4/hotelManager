@@ -6,7 +6,7 @@ import Box from "@mui/material/Box";
 export const PageHeader = () => {
   const headerTitle = "Hotels Finder";
   const description = "Find best hotels - cheap and easy!";
-  const image = 'https://source.unsplash.com/random';
+  const image = 'https://source.unsplash.com/AH8zKXqFITA';
   return (
     <Paper
       sx={{
